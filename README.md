@@ -1,32 +1,42 @@
 # 👋 Hi, I'm Anurag
 
-🚀 **Cloud Computing and DevOps Enthusiast**
+🚀 **Cloud Computing & DevOps Enthusiast**
 
 🎓 B.Tech Computer Science @ GLA University
 
-💼 **Certifications:**
-- AWS Cloud Practitioner
-- Azure Fundamentals
-- Google Cloud Generative AI
+---
 
-🌐 **Cloud & DevOps Skills:**
-- ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)AWS, Azure, GCP
-- Docker, Jenkins, Terraform, Ansible
-- CI/CD, Monitoring (CloudWatch, Prometheus, Grafana)
+## 🌟 Certifications
 
-📂 **Projects:**
-- **Cloud-Based E-learning Platform**
-  - AWS EC2, S3, Terraform, MERN Stack
-- **Serverless Application Deployment**
-  - Lambda, S3, Jenkins Pipeline
-- **Cloudinary Photo App**
-  - Next.js, Cloudinary API
-- **Personalized Mail System**
-  - Docker, Prometheus, Grafana
-
-🔗 **Links:**
-[LinkedIn](https://www.linkedin.com/in/anurag-561a772b4/) • [Resume](#) • [Email](mailto:anuragrajput1226@gmail.com)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![GCP](https://img.shields.io/badge/GCP-Cloud-yellow)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 
 ---
 
-⭐ **Check out my repositories below for code samples!**
+## 💼 Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **Cloud-Based E-learning Platform** | AWS EC2 + S3 + Terraform deployment | AWS, MERN Stack |
+| **Serverless Deployment** | Lambda, S3 static hosting, Jenkins CI/CD | AWS, Jenkins |
+| **Photo App** | Cloudinary image storage and transformation | Next.js, Cloudinary |
+| **Mail System** | Cloud-hosted mail platform with monitoring | Docker, Prometheus |
+
+---
+
+## 🛠️ Skills
+
+- **Cloud:** AWS, Azure, GCP
+- **IaC:** Terraform, Ansible
+- **Containers:** Docker
+- **CI/CD:** Jenkins
+- **Monitoring:** Prometheus, Grafana
+
+---
+
+## 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/anurag-561a772b4/) • [GitHub](https://github.com/AnuragRajput-cyber) • [Email](mailto:anuragrajput1226@gmail.com)
