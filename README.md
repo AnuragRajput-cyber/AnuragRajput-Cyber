@@ -10,7 +10,7 @@
 - Google Cloud Generative AI
 
 🌐 **Cloud & DevOps Skills:**
-- AWS, Azure, GCP
+- ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)AWS, Azure, GCP
 - Docker, Jenkins, Terraform, Ansible
 - CI/CD, Monitoring (CloudWatch, Prometheus, Grafana)
 
