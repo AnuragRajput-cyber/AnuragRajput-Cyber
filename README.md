@@ -2,7 +2,7 @@
 
 🚀 **Cloud Computing & DevOps Enthusiast**
 
-🎓 B.Tech Computer Science @ GLA University
+🎓 **B.Tech Computer Science with Specialization in Cloud Computing (IBM Integrated) @ GLA University**
 
 ---
 
@@ -16,27 +16,48 @@
 
 ---
 
+## 🛠️ Technical Skills
+
+- **Cloud Platforms:** AWS, Azure, GCP
+- **Infrastructure as Code:** Terraform, Ansible
+- **Containers:** Docker
+- **CI/CD:** Jenkins
+- **Monitoring:** AWS CloudWatch, Prometheus, Grafana
+- **Programming:** Java, JavaScript, Python
+- **Web Technologies:** React, Node.js, Next.js, MongoDB
+- **Version Control:** Git, GitHub
+
+---
+
 ## 💼 Projects
 
 | Project | Description | Tools |
 |---------|-------------|-------|
 | **Cloud-Based E-learning Platform** | AWS EC2 + S3 + Terraform deployment | AWS, MERN Stack |
-| **Serverless Deployment** | Lambda, S3 static hosting, Jenkins CI/CD | AWS, Jenkins |
-| **Photo App** | Cloudinary image storage and transformation | Next.js, Cloudinary |
-| **Mail System** | Cloud-hosted mail platform with monitoring | Docker, Prometheus |
+| **Serverless Deployment** | Lambda backend, S3 static hosting, Jenkins pipeline | AWS, Jenkins |
+| **Cloudinary Photo App** | Cloudinary image storage and transformation | Next.js, Cloudinary |
+| **Personalized Mail System** | Cloud-hosted mail platform with monitoring | Docker, Prometheus |
+| **IBM Cloud Projects** | Hands-on cloud computing projects from IBM curriculum | IBM Cloud, Docker |
 
 ---
 
-## 🛠️ Skills
+## 🧩 Education
 
-- **Cloud:** AWS, Azure, GCP
-- **IaC:** Terraform, Ansible
-- **Containers:** Docker
-- **CI/CD:** Jenkins
-- **Monitoring:** Prometheus, Grafana
+🎓 **B.Tech Computer Science Engineering with Specialization in Cloud Computing (IBM Integrated)**  
+GLA University (Aug 2022 – May 2026)  
+GPA: 7.7/10
 
 ---
 
-## 🌐 Connect
+## ✨ About Me
+
+💡 Passionate about building scalable cloud-native applications and automating infrastructure.  
+🔧 Constantly learning and exploring new cloud technologies.  
+🌟 Open to internships and cloud engineering roles.
+
+---
+
+## 🌐 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/anurag-561a772b4/) • [GitHub](https://github.com/AnuragRajput-cyber) • [Email](mailto:anuragrajput1226@gmail.com)
+
